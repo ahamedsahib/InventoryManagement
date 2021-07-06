@@ -1,0 +1,60 @@
+﻿{
+  "riceList": [
+
+    {
+      "name": "Basmati Rice",
+      "weight": 5,
+      "price": 30
+    },
+    {
+      "name": "Arborio Rice",
+      "weight": 10,
+      "price": 50
+    },
+    {
+      "name": "Brown Rice",
+      "weight": 12,
+      "price": 60
+    },
+    {
+      "name": "samba",
+      "weight": 15,
+      "price": 200
+    }
+  ],
+  "pulseList": [
+    {
+      "name": "Mung daal",
+      "weight": 6,
+      "price": 30
+    },
+    {
+      "name": "Chawli daal",
+      "weight": 11,
+      "price": 50
+    },
+    {
+      "name": "Rajma",
+      "weight": 13,
+      "price": 60
+    }
+  ],
+  "wheatList": [
+    {
+      "name": "Khapli wheat",
+      "weight": 4,
+      "price": 30
+    },
+    {
+      "name": "Sharbati wheat",
+      "weight": 9,
+      "price": 50
+    },
+    {
+      "name": "Durum Wheat",
+      "weight": 8,
+      "price": 60
+    }
+  ]
+}
+
